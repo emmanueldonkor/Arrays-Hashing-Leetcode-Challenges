@@ -23,4 +23,4 @@ Example 2:
 Input: emails = ["a@leetcode.com","b@leetcode.com","c@leetcode.com"]
 Output: 3
 
-https://leetcode.com/problems/unique-email-addresses/
+link: https://leetcode.com/problems/unique-email-addresses/
