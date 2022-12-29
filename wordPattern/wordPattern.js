@@ -41,5 +41,4 @@ var wordPattern = function(pattern, s) {
 
   // Return true if the pattern and string s match
   return true;
-    
 };
