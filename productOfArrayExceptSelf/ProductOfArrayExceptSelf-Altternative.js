@@ -4,7 +4,6 @@ function productExceptSelf(nums) {
   for (const num of nums) {
     product *= num;
   }
-
   // Divide the product by each element to get the result
   const result = [];
   for (const num of nums) {
