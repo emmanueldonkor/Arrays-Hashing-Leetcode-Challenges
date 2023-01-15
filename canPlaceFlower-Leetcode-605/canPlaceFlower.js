@@ -15,3 +15,5 @@ var canPlaceFlowers = function (flowerbed, n) {
   }
   return n <= 0;
 };
+//Time Complexity of O(n)
+//Space Complexity of O(n)
