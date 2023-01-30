@@ -13,7 +13,7 @@
   The repository contains the following:
   <ul>
     <li>Problem statements for each challenge in <code>.md</code> format</li>
-    <li>Explanations and thought process for each solution in <code>.md</code> format</li>
+    <li>Explanations and thought process for each solution in <code>.js</code> format</li>
   </ul>
 </p>
 
